@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="CpwJBrBCsUq7OvwBAEx5cfM5d8n4IcKAtXSOwfAGLw4agnCp3rjx1qdLNllNbLyB/D0kbn2ncuzcoZrh1wsVjiok5QCGyXEkHqSgxFKkFTAEvzRfFUTJ3dw9yB093UhSh8StG5k9SxVsfO9EQnOf1nvQ+a+CMzmQP0yXMtplSsBZm9vIhBB1gnL/GwVBoF+m8D4i6wEnLCboGGrvZHmmyoJLThnniifaM5jeUd9nZSeIy942+M81A/jL/xGenmdoyBVfC1QLm9C+3HOKJBCBAp7QanHAIAC4X3nenmwyVh96Ddlb7nme4tpqDXbUiny2SudfIeLgIbkmd0QUoEyqms4eQzHPyoXel5JsdY4YtginwvcuFBk8/Gv7Yt+7pxjIm2hO8dmXJEgDaUWUpV1kcHGZFq0yJDNU7yFOLLPP0KhXNTbXH8E5/YhqSX8JBwKUehRB2k+PbE43k5npOe8I/L8n/vkSMIWnJD+Lk8zlhPuYRe6WSh9t91CRQqL5H2Edwb7xTrusL08qu/ZLEEr3RzlGYblStupeN7uqsz+iP3To1x25WqWgAA5RevzmrXTHMjagboB+DBHvSWlJh3wH9sXTG44cit9Cs/rWzQkPVnoUbLvxUqV/7Dd2hMATuhHKyyclx5GrAUy6PaF9v7p6mf0J6UBZW+T3HDL0ADxQHDCReBH3Kl19Lbo5h4sG+Oaeepbpdkq3t9ljSnyzIhJI2nZIsDGH5CU2vf2P/ZvjjVIWO3M1xNygZVHiTbf8lJ6ohsggShUjsU5kUJT3W/ABsZxM5dHwkEXgvxXHw83qZq6VcVCBELxPWusbD2QsofCpiEAJ/+POvj0FDvNGJ92IuymXlPw3CukGZYYBXQt0G2SESq5UAx29j3g9f0zf8/+Jms1e/fUlMtldiJW1ANfmsARpSg31ICd+KLeHY43tUyg658AyTO9xTJN2LNMJJvcKmdgMmKUgfx2a+HoRV9iQ9II13obbQahycG/Z7qX1Atc++BRq0wvRx6OeusJbYG3uKj6PXjCJLXdQldzyabjDQO09jcdaWmfwTTijVQNfHzxisID+4bTaL70dZZFHWEfT1GY1HAbArntCbClUwoL9C+jAaN2DxgSkEZh0M8qbMzBBpIjCPpQZAEWssuIyYKoHJnshn6EgYCGYlWB0i03Z/X5Ly1YdsTHTw9a8lx9CUdtRvcqemQEZh+tnDecnNno4y1EolO6PBAbbGSM4ItOz8x8Lnjc0pDkLFWymo08Spbxm+4pRybqxD+dgbFREDW6lxDXVVHNQxA1sJR7QRoWvPLy3cEmDRt1JsQBFXWtSesO+DgURaLBF3ZkQJeNsoMQkk/bpzFRWlcbTFF2vFGxMI3N5DDVbnKrvaZatMdSy8RSXb2CThTt+9T7mztsXjdObGivMoZlx9tXImrnrCdxM8GDn8ndMK4hBEdSjeqm64QK2F1hdCsGTrqd9BDJX+UAkHijZs2Xj7QCRuwFfxF2olMl9Rm2smYuRQz/WQxTzX63C0iIUsZvcHqZydUNPpU9XyFUgBybaQQJp6yvjT4rhXnoo7h7710mByvfjUZ9DzC70uv8S4zpxadgauoHU9MtEJGPYaAHjIb8avajxnwAIU/Ck4vNt3nEIszo1MdexJrwRiMMwx8r5cuC7YFA/ub11eGoGB/NtDT3MD9VR0pxY9Kv7O0X4/XX1lC7O0dWeUHNsoZhh85KMwqeBxWvXQLooroz5iybHy+WGiP/f+aSOoXJiLSOTz4hmISAFNat3rJIycOwKmeNQCnUGD1sRpXhz5ECVL205oqtmSOp5Y+QIdA==" Version="1.3">
+	<Type>Runtime</Type>
+	<Username>Tei Jang</Username>
+	<Email>soowoomi@gmail.com</Email>
+	<Organization>Webzzi Co., Ltd.</Organization>
+	<LicensedDate>2014-10-21T00:00:00Z</LicensedDate>
+	<ExpiredDate>2015-04-21T00:00:00Z</ExpiredDate>
+	<Products>
+		<Product>
+			<Name>Spire.XLS Pro Edition</Name>
+			<Version>7.5</Version>
+			<Subscription>
+				<NumberOfPermittedDeveloper>1</NumberOfPermittedDeveloper>
+				<NumberOfPermittedSite>1</NumberOfPermittedSite>
+			</Subscription>
+		</Product>
+		<Product>
+			<Name>Spire.PDF Pro Edition</Name>
+			<Version>3.1</Version>
+			<Subscription>
+				<NumberOfPermittedDeveloper>1</NumberOfPermittedDeveloper>
+				<NumberOfPermittedSite>1</NumberOfPermittedSite>
+			</Subscription>
+		</Product>
+	</Products>
+	<Issuer>
+		<Name>e-iceblue</Name>
+		<Email>sales@e-iceblue.com</Email>
+		<Url>http://www.e-iceblue.com</Url>
+	</Issuer>
+</License>
